@@ -1,6 +1,10 @@
 [![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
 
+<<<<<<< HEAD
 Esto es una prueba para devops y github
+=======
+[![Board Status](https://dev.azure.com/AzureDevLabsAle/5ad84d26-5666-4cee-9438-a9a4d690f38e/36cf4f4d-2c76-4919-84df-0ab5a5c194b4/_apis/work/boardbadge/bb81c3b1-ec21-4893-8bd0-39e497d30c1f)](https://dev.azure.com/AzureDevLabsAle/5ad84d26-5666-4cee-9438-a9a4d690f38e/_boards/board/t/36cf4f4d-2c76-4919-84df-0ab5a5c194b4/Stories/)
+>>>>>>> aeef298 (update on badges)
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Applications
 
